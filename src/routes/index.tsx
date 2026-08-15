@@ -62,12 +62,12 @@ function Landing() {
         />
         <div className="absolute inset-0 bg-background/75" />
         <div className="relative mx-auto max-w-3xl px-6 py-32 text-center">
-          <p className="eyebrow">Desde 2014 · Ciudad de México</p>
+          <p className="eyebrow">Desde 2026 · Ciudad de México</p>
           <h1 className="mt-6 text-6xl leading-none sm:text-8xl">
             Barbería <span className="text-primary">Norte</span>
           </h1>
           <p className="mt-5 text-base tracking-wide text-muted-foreground sm:text-lg">
-            Tu estilo, tu identidad.
+            Tu estilo comienza aquí.
           </p>
           <div className="mt-10">
             <Button
